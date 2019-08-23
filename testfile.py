@@ -2,7 +2,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.arange(-2,2.2,0.2)
+x = np.arange(-4,4.2,0.2)
+
 y = x**2
 z = x**3
 
